@@ -8,3 +8,13 @@ C:\Users\Graziano\Desktop\Filmovii\Filmovii\obj\Debug\Filmovii.csproj.GenerateRe
 C:\Users\Graziano\Desktop\Filmovii\Filmovii\obj\Debug\Filmovii.csproj.CoreCompileInputs.cache
 C:\Users\Graziano\Desktop\Filmovii\Filmovii\obj\Debug\Filmovii.exe
 C:\Users\Graziano\Desktop\Filmovii\Filmovii\obj\Debug\Filmovii.pdb
+C:\Users\5cepr\Desktop\Projekti_GK\PickAMovie\Filmovii\bin\Debug\Filmovii.exe.config
+C:\Users\5cepr\Desktop\Projekti_GK\PickAMovie\Filmovii\bin\Debug\Filmovii.exe
+C:\Users\5cepr\Desktop\Projekti_GK\PickAMovie\Filmovii\bin\Debug\Filmovii.pdb
+C:\Users\5cepr\Desktop\Projekti_GK\PickAMovie\Filmovii\obj\Debug\Filmovii.csprojAssemblyReference.cache
+C:\Users\5cepr\Desktop\Projekti_GK\PickAMovie\Filmovii\obj\Debug\Filmovii.Form1.resources
+C:\Users\5cepr\Desktop\Projekti_GK\PickAMovie\Filmovii\obj\Debug\Filmovii.Properties.Resources.resources
+C:\Users\5cepr\Desktop\Projekti_GK\PickAMovie\Filmovii\obj\Debug\Filmovii.csproj.GenerateResource.cache
+C:\Users\5cepr\Desktop\Projekti_GK\PickAMovie\Filmovii\obj\Debug\Filmovii.csproj.CoreCompileInputs.cache
+C:\Users\5cepr\Desktop\Projekti_GK\PickAMovie\Filmovii\obj\Debug\Filmovii.exe
+C:\Users\5cepr\Desktop\Projekti_GK\PickAMovie\Filmovii\obj\Debug\Filmovii.pdb
